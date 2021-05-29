@@ -38,7 +38,21 @@
 <a href=" #">
  بیشتر درباره ویدیو 
 </a>
+
+
+<video width="298" controls>
+
+  <source src="https://aspb11.cdn.asset.aparat.com/aparat-video/1273ba04668a4a13bb6dc7ac4678e5f911863696-144p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQzMGU1YTUxYjYzMjdjNWVhYmZjNGYwODNmNWQ2ZmFlIiwiZXhwIjoxNjIyMzM3MTU0LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.hqatg4TOhkWcpGaX372D5ETU6z3PzPaY-j5nPfFc-5w" type="video/mp4">
+</video>
+<a href=" #">
+ بیشتر درباره ویدیو 
+</a>
+
+
+
 <h1></h1>
+
+
 
 
 <a href="#">
