@@ -55,7 +55,7 @@
 
 
 
-<a href="#">
+<a href="https://assspt.github.io/Online-tutor/tnzmat.html">
 تنظیمات 
 </a>
 <div>برای نشان دادن ایمیل یا ساخت وبلاگ به تنظیمات بروید</div>
