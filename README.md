@@ -28,7 +28,7 @@
 
 
 
-<video width="400" controls>
+<video width="298" controls>
 
   <source src="https://aspb11.cdn.asset.aparat.com/aparat-video/90a45b4be08f2c86a69907132dc697d314504620-144p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjQ4NmRmNWE2ZmE3MTQ3NTAyYzQ4OTE0NGVhMDMxNzEyIiwiZXhwIjoxNjIyMzIwMDA5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Y3jgctJDcItcew9UIjSNdGbMrobYhGyKQZdFSRqdNug" type="video/mp4">
 
