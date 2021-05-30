@@ -50,6 +50,34 @@
 
 
 
+<video width="298" controls>
+
+  <source src="https://aspb21.cdn.asset.aparat.com/aparat-video/dc52fedc131d8e8d5c3359518e3550d831647205-144p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImNlMTk0MGRjNGIyNWI3Yjc1YTY0YWY3YjUxZThiMzNjIiwiZXhwIjoxNjIyNDA3Mzc4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jD6UU-zkWsfB6fb5XLMaGEmTZFd824nhRp_KZXF1MCM" type="video/mp4">
+
+
+</video>
+
+
+<a href="#">
+بیشتر درباره ویدیو
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1></h1>
 
 
