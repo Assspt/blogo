@@ -52,7 +52,7 @@
 
 <video width="298" controls>
 
-  <source src="https://aspb21.cdn.asset.aparat.com/aparat-video/dc52fedc131d8e8d5c3359518e3550d831647205-144p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImNlMTk0MGRjNGIyNWI3Yjc1YTY0YWY3YjUxZThiMzNjIiwiZXhwIjoxNjIyNDA3Mzc4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.jD6UU-zkWsfB6fb5XLMaGEmTZFd824nhRp_KZXF1MCM" type="video/mp4">
+  <source src="https://as3.cdn.asset.aparat.com/aparat-video/b4d56ab8bd1d8a82b19153b20939a7e223063852-144p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjRjYTRhNThjZTQ3MDgwOWRmMjRlMzE2Mzk1ZDMyN2JmIiwiZXhwIjoxNjIyNDA3NjQ5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.Nap4xcjzze3fFjVWtVou3noopSlaBbpE2J70az1Qz5s" type="video/mp4">
 
 
 </video>
@@ -61,7 +61,6 @@
 <a href="#">
 بیشتر درباره ویدیو
 </a>
-
 
 
 
