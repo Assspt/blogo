@@ -65,7 +65,7 @@
 </video>
 
 
-<a href="https://assspt.github.io/Online-tutor/Coco-myinvpk_iran.html">
+<a href="https://assspt.github.io/blogn/Coco-myinvpk_iran.html">
 بیشتر درباره ویدیو
 </a>
 
@@ -118,7 +118,7 @@
 
 
 
-<a href="https://assspt.github.io/Online-tutor/tnzmat.html">
+<a href="https://assspt.github.io/blogn/tnzmat.html">
 تنظیمات 
 </a>
 <div>برای نشان دادن ایمیل یا ساخت وبلاگ به تنظیمات بروید</div>
