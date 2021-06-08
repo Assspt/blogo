@@ -1,4 +1,4 @@
-
+<input  placeholder="جستجو"></input>
 
        blogn چیست
 
