@@ -1,4 +1,4 @@
-<input  placeholder="جستجو"></input>
+
 
        blogn چیست
 
@@ -20,7 +20,7 @@
 
 
 </video>
-
+<br>
 <a href=" #">
  بیشتر درباره ویدیو 
 </a>
@@ -30,6 +30,8 @@
 
   <source src="https://hw16.cdn.asset.aparat.com/aparat-video/cb9f119e0ad835fb9f3c12a22ce16fe232886566-144p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjYxMGNiYzkwZWQyOTVkOTU2MzNhZDkyN2E3ODNiYjdjIiwiZXhwIjoxNjIyNDA2MDM2LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.g3O2z2n7xEeIwX0oJNysTlf7wK4tTK4SrpdZhi7NerY" type="video/mp4">
 </video>
+<br>
+
 <a href=" #">
  بیشتر درباره ویدیو 
 </a>
@@ -42,7 +44,7 @@
 
 
 </video>
-
+<br>
 
 <a href="#">
 بیشتر درباره ویدیو
@@ -59,7 +61,7 @@
 
 
 </video>
-
+<br>
 
 <a href="https://assspt.github.io/blogn/Coco-myinvpk_iran.html">
 بیشتر درباره ویدیو
@@ -78,7 +80,7 @@
 
 
 </video>
-
+<br>
 
 <a href="#">
  بیشتر درباره ویدیو 
@@ -98,7 +100,7 @@
 
 </video>
 
-
+<br>
 <a href="#">
  بیشتر درباره ویدیو 
 </a>
