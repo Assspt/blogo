@@ -1,7 +1,4 @@
 
-<head>
-<title>ساخت وبلاگ</title>
-</head>
 
 <a>blogn چیست</a>
 
