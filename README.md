@@ -1,23 +1,16 @@
-<form method="get" action="http://www.google.com/search<table >
-<tr>
-<td>
-<a href="http://www.google.com/">
-<img src="http://www.google.com/logos/Logo_40wht.gif" border="0" alt="Google" align="absmiddle"></a>
-<input type="text" name="q" size="31" maxlength="255" value="">
-<input type="hidden" name="hl" value="en">
-<input type="submit" name="btnG" value="Google Search">
 
-<a>blogn چیست</a>
 
-<p>   یک سایت است که شما یک وبلاگ در سایت می سازید </p>
-<p>و باید نام و شماره تلفن رو به ما باید بدید که ما وبلاگ شما را بسازیم </p>
-<div>
-وبلاگ می توان درباره یک چیز باشد 
-</div>
+       <a>blogn چیست</a>
+
+              <p>   یک سایت است که شما یک وبلاگ در سایت می سازید </p>
+            <p>و باید نام و شماره تلفن رو به ما باید بدید که ما وبلاگ شما را بسازیم </p>
+
+            <div>
+             وبلاگ می توان درباره یک چیز باشد 
+             </div>
 
 <br>
-<p>
- شما می توانید اموزش تون  تون رو پولی کنید<br>  و ایمیل خود را بنویسید در وبلاگ بنویسید
+            <p>شما می توانید اموزش تون  تون رو پولی کنید<br>  و ایمیل خود را بنویسید در وبلاگ بنویسید
 
 
 
