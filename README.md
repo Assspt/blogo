@@ -1,6 +1,7 @@
+<form action="">
+<input type="text" placeholder="Search.." name="search">
+<button type="submit"><i class="fa fa-search"></i></button>
 
-<input>جستجو 
- <input type="submit" value=" وارد" />
 <br>
          blogn چیست
 
