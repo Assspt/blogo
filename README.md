@@ -1,5 +1,5 @@
 
-<form action="https://assspt.github.io/pssskom.html/exxmmlp.html">
+<form action="exxmmlp.html">
 <input type="text" placeholder="blogn/exxpm.html" name="search" size=35>
 <button type="submit"><i class="fa fa-search"></i></button>
 
