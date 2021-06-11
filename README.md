@@ -1,4 +1,4 @@
-<title>ساخت وبلاگ</title>
+
 <form action="">
 <input type="text" placeholder="Search.." name="search" size=35>
 <button type="submit"><i class="fa fa-search"></i></button>
