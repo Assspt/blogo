@@ -1,3 +1,25 @@
 <?php
 echo '$##$';
+
+
+
 <? 
+<html>
+<head>
+    <style type="text/css">
+    .bodybg {
+        <?php $day=date('N'); ?>
+        <?php if ($day==1) { ?>background-color: #2DFF9A;<?php } ?>
+        <?php if ($day==2){ ?> background-color: #2F22CD; <?php } ?>
+        <?php if ($day==3){ ?>background-color: #C4E4ED;<?php } ?>
+        <?php if ($day==4){ ?>background-color: #1ADCEC;<?php } ?>
+        <?php if ($day==5){ ?>background-color: #F4151C;<?php } ?>
+        <?php if ($day==6){ ?>background-color: #C4E4ED;<?php } ?>
+        <?php if ($day==7){ ?>background-color: #D6F43F;<?php } ?>
+     }
+    </style>
+</head>
+<body class="bodybg">
+    <?php  echo $day;?>
+</body>
+</html>
