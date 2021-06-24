@@ -4,18 +4,9 @@
 
 
 <br>
-         
-<body style="background-color: #000000;">
 
-           
-                    
-
-
+<html>
+<head></head>
+<body style="background-color:#000">
 </body>
-
-
-<body>
-<body style="background-color: ;">
-
-
-</body>
+</html>
