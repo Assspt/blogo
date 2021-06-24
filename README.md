@@ -8,6 +8,6 @@
 
 <html>
 <head></head>
-<body style="background-color:#000">
+<body style="background-color:#FFFFE0">
 </body>
 </html>
