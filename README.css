@@ -1,5 +1,5 @@
 
-div{
+body{
 margin-left: auto;
 margin-right: auto;
 height: 100px;
@@ -19,14 +19,14 @@ color: blue;
 }
 
 
-Menu{
+body{
 background.color:#000000;
 height:40px;
 }
-Menu ul{
+body{
 margin:0;
 }
-Menu li{
+body{
 display:inline-block;
 margin-top:10px;
 padding-right:30px;
