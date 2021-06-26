@@ -1,5 +1,33 @@
 
-background: #c31432;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
- 
+div{
+margin-left: auto;
+margin-right: auto;
+height: 100px;
+line-height: 100px;
+white-space: nowrap;
+
+
+
+
+}
+
+
+body {
+
+color: blue;
+
+}
+
+
+Menu{
+background.color:#000000;
+height:40px;
+}
+Menu ul{
+margin:0;
+}
+Menu li{
+display:inline-block;
+margin-top:10px;
+padding-right:30px;
+}
