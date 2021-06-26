@@ -1,5 +1,9 @@
 
-body{
+
+div{
+  text-align: center;
+}
+div{
 margin-left: auto;
 margin-right: auto;
 height: 100px;
@@ -19,14 +23,14 @@ color: blue;
 }
 
 
-body{
+Menu{
 background.color:#000000;
 height:40px;
 }
-body{
+Menu ul{
 margin:0;
 }
-body{
+Menu li{
 display:inline-block;
 margin-top:10px;
 padding-right:30px;
