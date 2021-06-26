@@ -2,12 +2,6 @@
 
 
 
-<Menu>
-<div class="navbar">
-<ul class="menu">
-
-<p>آخرین بروزرسانی
-</li>
     
     
 
@@ -26,3 +20,9 @@
 <body style="background-color:#FFFFE0">
 </body>
 </html>
+
+<Menu>
+<div class="navbar">
+<ul class="menu">
+<il>
+<p>آخرین بروزرسانی
