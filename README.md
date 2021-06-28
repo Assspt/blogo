@@ -26,4 +26,4 @@
 <ul class="menu">
 <il>
 <p>آخرین  بروزرسانی  1400/4/6<br>بازدید کننده فعلی 1309473
-<img id="kelidestan" src="https://faranesh.com/assets/enamad2.d5a09dbe435d2af85eaa9db515c95fcb.png " width="100" height="100">
+
