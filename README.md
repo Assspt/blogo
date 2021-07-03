@@ -27,7 +27,7 @@
 
 
 
-  <a href="#" class="button">شروع کن</a>
+  <a href="blog.my.html" class="button">شروع کن</a>
 
 
 </div>
@@ -118,7 +118,7 @@ assspt.github.io/blogo/اسم
 
 <div style="background-color:#000000; text-align: left; color:#FFFFFF; ">
 
-<a href="#">
+<a href="blog.my.html">
 
 ساخت وبسایت 
 
