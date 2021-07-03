@@ -20,14 +20,14 @@
 </head>
 
 
-<body style=" text-align: center; margin-left: auto; margin-right: auto;">
+<body style="text-align: right;">
 
 
-<div class="wrapper" style="background: LightGray; -webkit-transform: skewY(-45deg) translateX(0); transform: skewY(-45deg) translateX(0); -webkit-transform: skewY(-45deg) translateX(12.5em);  transform: skewY(-45deg) translateX(12.5em); -webkit-transform: skewY(-45deg) translateX(0); transform: skewY(-45deg) translateX(12.5em); display: block; position: absolute;     top: 50%;        left: 50%;      -webkit-transform: translate(-50%, -50%);   transform: translate(-50%, -50%); padding: 0.75em 2em;  text-align: center; text-decoration: none; color: #2194E0; border: 2px solid #2194E0; font-size: 24px; display: inline-block; border-radius: 0.3em;  " >
+<div class="wrapper" style="background: LightGray; -webkit-transform: skewY(-45deg) ; translateX(12.5em);  transform: skewY(-45deg) translateX(12.5em); -webkit-transform: skewY(-45deg) translateX(0); transform: skewY(-45deg) translateX(12.5em); display: block; position: absolute;     top: 50%;        left: 50%;      -webkit-transform: translate(-50%, -50%);   transform: translate(-50%, -50%); padding: 0.75em 2em;  text-align: center; text-decoration: none; color: #2194E0; border: 2px solid #2194E0; font-size: 24px; display: inline-block; border-radius: 0.3em;  " >
 
 
 
-  <a href="blog.my.html" class="button">شروع کن</a>
+  <a href="#" class="button">شروع کن</a>
 
 
 </div>
@@ -35,11 +35,40 @@
 <main>
 <p style="color:#F0FFFF; background-color:#000000;">ساخت وبسایت
 
+</p>
+
+
+<br>
+
+<br>
+
+<br>
+<br>
+<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+<br>
 
 
 
 
 
+<br>
+<br>
+<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+<br>
 <footer>
 
 
@@ -53,11 +82,10 @@
 نخورده باشد و بدون شک بنا بر نیازهای مدرن، سر و کاری با این صفحات اینترنتی داشته‌اید. اما تا به
 حال فکر کرده‌اید که وب سایت چیست؟
 <br>
----------------------------------------
+------------------------------------------------------------
 <br>
 مفهوم وب سایت
 
-<br>
 سایت اصطلاحا به جایی در اینترنت گفته می‌شود که یک صفحه یا تعداد بیشتری از صفحات را در خود جا
 داده است. هریک از صفحات آن نیز دارای محتوا و اطلاعات مختلفی اعم از متن، تصویر، فیلم، فایل های
 صوتی و… وجود دارد. هر سایتی در دنیای وب، دارای یک آدرس یا URL است که از بخش‌های مختلفی
@@ -66,11 +94,11 @@
 وب سایت‌ها نیز به مانند ما انسان‌ها دارای اسمی منحصر به فرد هستند که در دنیای وب به آن‌ها دامنه یا
 دامین گفته می‌شود. هر سایتی دارای یک دامین و یک شماره شناسایی منحصر بفردیا IP می‌باشد تا از
 باقی صفحات متمایز شود. همچنین پس از هر دامنه‌ی منحصر به فرد، آدرس سایت دارای یک پسوند
-می‌باشد ه آن به اتمام می‌رسد. در ایران رایج‌ترین این پسوندها com، ir، org و… می‌باشند
+می‌باشد ه آن به اتمامی‌رسد. در ایران رایج‌ترین این پسوندها com، ir، org و… می‌باشند
 
 
 <br>
----------------------------------------
+------------------------------------------------------------
 <br>
 تفاوت وب سایت با وبلاگ
 <br>
@@ -83,7 +111,7 @@
 وب سایت، نیاز به صرف هزینه برای خرید دامنه، هاست، طراحی و همچنین دانش مدیریت آن می‌باشیم.
 همچنین وبلاگ‌ها اکثرا کاربرد شخصی دارند اما حوزه‌ کاربردی وب سایت‌ها متفاوت است.
 <br>
----------------------------------------
+------------------------------------------------------------
 <br>
 انواع وب سایت
 <br>
@@ -93,9 +121,9 @@
 
 
 <br>
------------------------------------------
+------------------------------------------------------------
 <br>
-سایت ساز  blogo؟
+?سایت ساز  blogo
 <br>
 blogo به شما یک هاست و دامنه رایگان برای شما میده
 <br>
@@ -116,9 +144,9 @@ assspt.github.io/blogo/اسم
 
 </h4>
 
-<div style="background-color:#000000; text-align: left; color:#FFFFFF; ">
+<div style="background-color:#000000; text-align: left; ; ">
 
-<a href="blog.my.html">
+<a href="#">
 
 ساخت وبسایت 
 
@@ -131,18 +159,18 @@ assspt.github.io/blogo/اسم
 ثبت نام
 
 
+
 </a>
 
 
+.
+<br>
+.
+<br>
+.
+<br>
+
+.
+<br>
+.
 </div>
-
-
-
-
-
-
-
-
-
-
-
