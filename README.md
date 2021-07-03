@@ -128,7 +128,7 @@ assspt.github.io/blogo/اسم
 
 <a href="ui.html">
 
-ثبت نام
+ثبت نام#
 
 
 </a>
