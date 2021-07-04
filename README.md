@@ -178,18 +178,6 @@ assspt.github.io/blogo/اسم
 
 
 
-</a>
-
-
-
-<br>
-
-<br>
-
-<br>
-
-
-<br>
 <a href="help.html">
 
 گزارش مشکل سایت
