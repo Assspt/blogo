@@ -190,7 +190,7 @@ assspt.github.io/blogo/اسم
 
 
 <br>
-<a href="ui.html">
+<a href="help.html">
 
 گزارش مشکل سایت
 
