@@ -32,7 +32,7 @@
 </div>
 
 <main>
-<p style="color:#F0FFFF; background-color:#000000;text-align: center;">ساخت وبسایت</p>
+<p style="color:#F0FFFF; background-color:#000000;text-align: center;">ساخت وبسایت
 
 </p>
 
@@ -46,8 +46,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 
 
@@ -116,7 +115,6 @@
 
 <br>
 <br>
-<br>
 
 <br>
 <h3>
@@ -134,7 +132,7 @@
 <br>
 
 <br>
-<br>
+
 <br>
 
 <br>
@@ -161,7 +159,7 @@ assspt.github.io/blogo/اسم
 
 </h4>
 
-<div style="background-color:#000000; text-align: left; ; ">
+<div style="background-color:#000000; text-align: left; color:#F0FFFF; ">
 
 <a href="blog.html">
 
