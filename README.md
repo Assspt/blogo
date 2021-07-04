@@ -170,7 +170,6 @@ assspt.github.io/blogo/اسم
 </a>
 <br>
 <br>
-<br>
 <a href="ui.html" style="background-color:#fff; color:#000; padding:10px 20px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px solid #5db616;  background-color:#5db616; color:#fff;">
 
 ثبت نام
@@ -178,7 +177,7 @@ assspt.github.io/blogo/اسم
 </a>
 <br>
 <br>
-<br>
+
 
 <a href="help.html" style="background-color:#fff; color:#000; padding:10px 20px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px solid #5db616;  background-color:#5db616; color:#fff;">
 
