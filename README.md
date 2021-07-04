@@ -164,7 +164,7 @@ assspt.github.io/blogo/اسم
 
 <div style="background-color:#000000; text-align: left; ; ">
 
-<a href="blog.my.html">
+<a href="blog.html">
 
 ساخت وبسایت 
 
@@ -190,5 +190,11 @@ assspt.github.io/blogo/اسم
 
 
 <br>
+<a href="ui.html">
 
+گزارش مشکل سایت
+
+
+
+</a>
 </div>
