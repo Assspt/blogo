@@ -159,7 +159,7 @@ assspt.github.io/blogo/اسم
 
 </h4>
 
-<div style="background-color:#000000; text-align: left; color:#F0FFFF; ">
+<div style="background-color:#000000; text-align: left; color:#fff; ">
 
 <a href="blog.html">
 
