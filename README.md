@@ -20,7 +20,8 @@
 <body style="text-align: right;">
 
 
-<div class="wrapper" style="background: LightGray; -webkit-transform: skewY(-45deg) ; translateX(12.5em);  transform: skewY(-45deg) translateX(12.5em); -webkit-transform: skewY(-45deg) translateX(0); transform: skewY(-45deg) translateX(12.5em); display: block; position: absolute;     top: 50%;        left: 50%;      -webkit-transform: translate(-50%, -50%);   transform: translate(-50%, -50%); padding: 0.75em 2em;  text-align: center; text-decoration: none; color: #2194E0; border: 2px solid #2194E0; font-size: 24px; display: inline-block; border-radius: 0.3em;  " >
+<div class="wrapper" style="background-color:#fff; color:#000; padding:10px 20px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px solid #5db616;  background-color:#5db616; color:#fff;">
+ " >
 
 
 
