@@ -73,7 +73,7 @@ prompt("نام شما چیست")
 
 </footer>
 
-
+<div style="background-color:#7FFF00;">
 <h4>
 <p>
 <h3>
@@ -87,9 +87,9 @@ prompt("نام شما چیست")
 <br>
 
 <br>
-
+</div>
 <h3>
-
+<div style="background-color:#FFFF00;">
 مفهوم وب سایت
 </h3>
 سایت اصطلاحا به جایی در اینترنت گفته می‌شود که یک صفحه یا تعداد بیشتری از صفحات را در خود جا
@@ -107,8 +107,8 @@ prompt("نام شما چیست")
 <br>
 
 <br>
-
-
+</div>
+<div style="background-color:#4169E1;">
 <h3>
 تفاوت وب سایت با وبلاگ
 </h3>
@@ -125,10 +125,10 @@ prompt("نام شما چیست")
 <br>
 
 <br>
+</div>
 
 
-
-
+<div style="background-color:#AFEEEE;">
 <h3>
 انواع وب سایت
 </h3>
@@ -140,9 +140,9 @@ prompt("نام شما چیست")
 
 <br>
 <br>
-
+</div>
 <br>
-
+<div style="background-color:#F08080;">
 <h3>
 ?سایت ساز  blogo
 <br>
@@ -160,7 +160,7 @@ assspt.github.io/blogo/اسم
 فقط این قشنگی هست و هیچ فرقی نداره 
  وبسایت شما توسط سایت blogo پشتبانی می شود  سایت 
 
-
+</div>
 
 </p>
 
