@@ -87,9 +87,9 @@ prompt("نام شما چیست")
 <br>
 
 <br>
-</div>
-<h3>
 <div style="background-color:#FFFF00;">
+<h3>
+
 مفهوم وب سایت
 </h3>
 سایت اصطلاحا به جایی در اینترنت گفته می‌شود که یک صفحه یا تعداد بیشتری از صفحات را در خود جا
@@ -162,9 +162,9 @@ assspt.github.io/blogo/اسم
 
 </div>
 
-</p>
 
-</h4>
+
+
 
 <div style="background-color:#000000; text-align: left;  ">
 <br>
