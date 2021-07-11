@@ -12,7 +12,7 @@ prompt("نام شما چیست")
 
 
 </script>
-<title>ساخت وب سایت</title>
+
 <hr>
 <html>
 <head>
@@ -20,7 +20,7 @@ prompt("نام شما چیست")
 
 
 
-
+<title>ساخت وب سایت</title>
 
 
 
@@ -86,8 +86,9 @@ prompt("نام شما چیست")
 حال فکر کرده‌اید که وب سایت چیست؟
 <br>
 <br>
-</div>
+
 <br>
+</div>
 <div style="background-color:#FFFF00;">
 <h3>
 
