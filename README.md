@@ -162,8 +162,8 @@ assspt.github.io/blogo/اسم
 
 </div>
 
-
-
+<br>
+<br>
 
 
 <div style="background-color:#000000; text-align: left;  ">
@@ -216,16 +216,4 @@ assspt.github.io/blogo/اسم
 
 
 </a>
-<script>
- 
 
-alert("خداحافظ")
-
-
-
-
-
-
-
-
-</script>
