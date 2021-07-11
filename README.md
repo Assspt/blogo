@@ -142,7 +142,7 @@ prompt("نام شما چیست")
 <br>
 </div>
 <br>
-<div style="background-color:#F08080;">
+<div style="background-color:#;">
 <h3>
 ?سایت ساز  blogo
 <br>
@@ -216,3 +216,16 @@ assspt.github.io/blogo/اسم
 
 
 </a>
+<script>
+ 
+
+alert("خداحافظ")
+
+
+
+
+
+
+
+
+</script>
