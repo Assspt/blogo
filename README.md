@@ -86,7 +86,7 @@ prompt("نام شما چیست")
 حال فکر کرده‌اید که وب سایت چیست؟
 <br>
 <br>
-
+</div>
 <br>
 <div style="background-color:#FFFF00;">
 <h3>
