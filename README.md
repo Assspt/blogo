@@ -20,7 +20,7 @@ prompt("نام شما چیست")
 
 
 
-<title>ساخت وب سایت</title>
+
 
 
 
@@ -33,7 +33,7 @@ prompt("نام شما چیست")
 
 
 <body style="text-align: right;">
-
+<title>ساخت وب سایت</title>
 <p style="color:#F0FFFF; background-color:#000000;text-align: center;">ساخت وبسایت
 <a/>
 
