@@ -167,7 +167,7 @@ assspt.github.io/blogo/اسم
 <br>
 <br>
 
-T
+
 </a>
 <div style="background-color:#000000; text-align: left;  ">
 <br>
