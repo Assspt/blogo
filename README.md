@@ -88,7 +88,6 @@ prompt("نام شما چیست")
 <br>
 
 <br>
-</div>
 <div style="background-color:#FFFF00;">
 <h3>
 
