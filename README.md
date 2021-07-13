@@ -61,7 +61,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 
-<center> 
+
 <img src= "about.gitlab.com/images/icons/shield-checkmark.svg"alt="" style="width:100; height:200;">
 <br>
 <h3>وبسایت خود را مدیریت کنید</h3>
@@ -76,7 +76,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 
-</center>
+
 
 
 
