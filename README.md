@@ -66,7 +66,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 <h3>وبسایت خود را مدیریت کنید</h3>
 <br>
-<img src= "https://wordland.ir/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/09/icon-mark-wordland7-.png.webp"alt="" style="width:200; height:200;">
+
 <br>
 <h3>رایگان وبسایت بساز</h3>
 <br>
