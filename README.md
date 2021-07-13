@@ -66,7 +66,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 <h3>وبسایت خود را مدیریت کنید</h3>
 <br>
-<img src= "https://about.gitlab.com/images/enterprise/icon_continuous-delivery-color.svg"alt="" style="width:100; height:200;">
+<img src= "https://about.gitlab.com/images/enterprise/icon_continuous-delivery-color.svg"alt="" style="width:1; height:200;">
 <br>
 <h3>رایگان وبسایت بساز</h3>
 <br>
