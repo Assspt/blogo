@@ -63,7 +63,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 <center> 
 <div class = "header">
-<img src= "https://about.gitlab.com/images/icons/shield-checkmark.svg"style="width:100; height:200;">
+<img src= "https://about.gitlab.com/images/icons/shield-checkmark.svg"style="width:100; height:150;">
 
 </div>
 
