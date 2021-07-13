@@ -73,7 +73,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 </footer>
 
-<div style="background-color:#7FFF00;">
+<div style="background-color:;">
 <h4>
 <p>
 <h3>
@@ -87,7 +87,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 <br>
-<div style="background-color:#FFFF00;">
+<div style="background-color:;">
 <h3>
 
 مفهوم وب سایت
@@ -108,7 +108,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 <br>
 </div>
-<div style="background-color:#4169E1;">
+<div style="background-color:;">
 <h3>
 تفاوت وب سایت با وبلاگ
 </h3>
@@ -128,7 +128,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </div>
 
 
-<div style="background-color:#AFEEEE;">
+<div style="background-color:;">
 <h3>
 انواع وب سایت
 </h3>
@@ -142,7 +142,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 </div>
 <br>
-<div style="background-color:#;">
+<div style="background-color:;">
 <h3>
 ?سایت ساز  blogo
 <br>
