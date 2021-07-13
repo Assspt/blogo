@@ -66,9 +66,12 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <img src= "https://about.gitlab.com/images/icons/shield-checkmark.svg"style="width:100; height:200;">
 
 </div>
+
 <h3>وبسایت خود را مدیریت کنید</h3>
 <br>
-<br>
+<div class = "header">
+<img src="https://about.gitlab.com/images/icons/shield-checkmark.svg"alt="logo">
+</div>
 <br>
 <h3>رایگان وبسایت بساز</h3>
 <br>
