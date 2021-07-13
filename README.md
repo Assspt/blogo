@@ -61,22 +61,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 
-<center> 
-<img src= "https://about.gitlab.com/images/icons/shield-checkmark.svg"alt="" style="width:100; height:200;">
-<br>
-<h3>وبسایت خود را مدیریت کنید</h3>
-<br>
-<img src= "https://about.gitlab.com/images/enterprise/icon_continuous-delivery-color.svg"alt="" style="width:100; height:200;">
-<br>
-<h3>رایگان وبسایت بساز</h3>
-<br>
-<img src= "https://about.gitlab.com/images/enterprise/icon_locked.svg"alt="" style="width:100; height:200;">
-<br>
-<h3>امنیت در زمان اعلان </h3>
-<br>
 
-
-</center>
 
 
 
@@ -171,7 +156,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 
 <br>
-
+<h4>
 .راحت سایت خودت رو می سازی 
 
 <br>
