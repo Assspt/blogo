@@ -62,42 +62,15 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 
 <center> 
-<div class = "header">
-<img src= "https://about.gitlab.com/images/icons/shield-checkmark.svg"style="width:100; height:150;">
-
-</div>
-
+<img src= "https://about.gitlab.com/images/icons/shield-checkmark.svg"alt="" style="width:100; height:200;">
+<br>
 <h3>وبسایت خود را مدیریت کنید</h3>
 <br>
-<div class = "header">
-<img src="https://about.gitlab.com/images/icons/shield-checkmark.svg"alt="logo">
-</div>
+<img src= "https://about.gitlab.com/images/enterprise/icon_continuous-delivery-color.svg"alt="" style="width:100; height:200;">
 <br>
 <h3>رایگان وبسایت بساز</h3>
 <br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-<img src= "https://about.gitlab.com/images/enterprise/icon_locked.svg"style="width:100; height:200;">
-
-
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
+<img src= "https://about.gitlab.com/images/enterprise/icon_locked.svg"alt="" style="width:100; height:200;">
 <br>
 <h3>امنیت در زمان اعلان </h3>
 <br>
