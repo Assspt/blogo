@@ -94,7 +94,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <h3></h3>
 <br>
 <a href="https://assspt.github.io/blogo">
-<img src= "https://user-images.githubusercontent.com/77159072/125669434-95b9ce9d-4a25-42fa-a000-7513ef75b478.jpg"alt="" style="width:200; height:200;"/>
+<img src= "https://user-images.githubusercontent.com/77159072/125669434-95b9ce9d-4a25-42fa-a000-7513ef75b478.jpg">
 <br>
 </a>
 <h3></h3>
