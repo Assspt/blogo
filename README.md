@@ -80,7 +80,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <a href="https://assspt.github.io/blogo">
 
 
-<img src= "https://www.dadevarzan.com/wp-content/uploads/2019/10/Photo-Gallery-Website-Design.jpg"alt="" style="width:200; height:200;"/>
+<img src= ""alt="" style="width:200; height:200;"/>
 <br>
 </a>
 
