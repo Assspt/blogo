@@ -55,7 +55,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 
 
-  <a href="#" class="button" style="background-color:#9370DB; color:#FFFFFF; padding:1px 110px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  text-align: center; font-size: 34px; ">با ما تماس.</a>
+  <a href="#" class="button" style="background-color:#9370DB; color:#FFFFFF; padding:1px 100px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  text-align: center; font-size: 34px; ">با ما تماس.</a>
 
 
 </div>
