@@ -80,7 +80,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <a href="https://assspt.github.io/blogo">
 
 
-<img src= "https://user-images.githubusercontent.com/77159072/125670662-bf4aad8f-004c-4a5f-88a0-4d60a81a66dc.jpg"alt="" style="width:200; height:200;"/>
+<img src= "https://user-images.githubusercontent.com/77159072/125670662-bf4aad8f-004c-4a5f-88a0-4d60a81a66dc.jpg"alt=">
 <br>
 </a>
 
@@ -88,7 +88,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 <a href="https://assspt.github.io/blogo">
-<img src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png"alt="" style="width:200; height:200;"/>
+<img src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png">
 <br>
 </a>
 <h3></h3>
