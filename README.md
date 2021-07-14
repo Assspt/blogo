@@ -94,7 +94,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <h3>سرور رایگان </h3>
 <br>
 <a href="https://assspt.github.io/blogo">
-<img src= "https://pikfree.ir/wp-content/uploads/edd/2018/10/money-Top.jpg"alt="" style="width:200; height:200;"/>
+<img src= "https://user-images.githubusercontent.com/77159072/125669434-95b9ce9d-4a25-42fa-a000-7513ef75b478.jpg"alt="" style="width:200; height:200;"/>
 <br>
 </a>
 <h3> blogo رایگان است </h3>
