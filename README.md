@@ -80,7 +80,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <a href="https://assspt.github.io/blogo">
 
 
-<img src= "https://user-images.githubusercontent.com/77159072/125670662-bf4aad8f-004c-4a5f-88a0-4d60a81a66dc.jpg"alt=">
+<img src= "https://user-images.githubusercontent.com/77159072/125670662-bf4aad8f-004c-4a5f-88a0-4d60a81a66dc.jpg">
 <br>
 </a>
 
