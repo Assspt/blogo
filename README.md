@@ -80,7 +80,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <a href="https://assspt.github.io/blogo">
 
 
-<img src= "https://www.dadevarzan.com/wp-content/uploads/2019/10/Photo-Gallery-Website-Design.jpg"alt="" style="width:200; height:200;">
+<img src= "https://www.dadevarzan.com/wp-content/uploads/2019/10/Photo-Gallery-Website-Design.jpg"alt="" style="width:200; height:200;"/>
 <br>
 </a>
 
@@ -88,13 +88,13 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 <a href="https://assspt.github.io/blogo">
-<img src= "https://adminesite.com/wp-content/uploads/2020/06/top-hosting-company.png"alt="" style="width:200; height:200;">
+<img src= "https://adminesite.com/wp-content/uploads/2020/06/top-hosting-company.png"alt="" style="width:200; height:200;"/>
 <br>
 </a>
 <h3>سرور رایگان </h3>
 <br>
 <a href="https://assspt.github.io/blogo">
-<img src= "https://pikfree.ir/wp-content/uploads/edd/2018/10/money-Top.jpg"alt="" style="width:200; height:200;">
+<img src= "https://pikfree.ir/wp-content/uploads/edd/2018/10/money-Top.jpg"alt="" style="width:200; height:200;"/>
 <br>
 </a>
 <h3> blogo رایگان است </h3>
