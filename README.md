@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/77159072/125664178-9ecc8235-5175-43e0-b5a4-fff89504a14b.jpg"/>
-<img src="https://vazaar.ir/wp-content/uploads/2017/12/Tick.jpg"/>
+
 
 <script>
  
