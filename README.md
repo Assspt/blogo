@@ -81,7 +81,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 <center> 
-<a href="#">
+<a href="dt.html">
 
 
 <img src= "https://user-images.githubusercontent.com/77159072/125670662-bf4aad8f-004c-4a5f-88a0-4d60a81a66dc.jpg">
