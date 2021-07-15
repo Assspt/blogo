@@ -91,7 +91,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <h3>خودت وبسایتو طراحی کن</h3>
 <br>
 
-<a href="https://assspt.github.io/blogo">
+<a href="cv.html">
 <img src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png">
 <br>
 </a>
