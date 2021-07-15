@@ -97,7 +97,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <h3>سرور رایگان</h3>
 <br>
-<a href="https://assspt.github.io/blogo">
+<a href="lotbm.html">
 <img src= "https://user-images.githubusercontent.com/77159072/125669434-95b9ce9d-4a25-42fa-a000-7513ef75b478.jpg">
 <br>
 </a>
