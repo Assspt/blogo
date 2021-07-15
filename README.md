@@ -125,12 +125,12 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 <br>
-<center>
-
 <div style="background-color:#000000; text-align: left;  ">
 <br>
 <br>
-<a href="blog.my.html" style="background-color:#FFA500; color:#000; padding:10px 150px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   background-color:#5db616; color:#fff;">
+<center>
+
+<a href="blog.my.html" style="background-color:#FFA500; color:#000; padding:10px 110px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   background-color:#5db616; color:#fff;">
 
 
 ساخت وبسایت 
@@ -139,7 +139,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="blog.html" style="background-color:#9370DB; color:#000; padding:10px 170px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px background-color:#5db616; color:#fff;">
+<a href="blog.html" style="background-color:#9370DB; color:#000; padding:10px 140px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px background-color:#5db616; color:#fff;">
 
 ثبت نام
 
@@ -148,7 +148,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 
-<a href="help.html" style="background-color:#FFA500; color:#000; padding:10px 150px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  background-color:#5db616; color:#fff;">
+<a href="help.html" style="background-color:#FFA500; color:#000; padding:10px 100px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  background-color:#5db616; color:#fff;">
 
 
 گزارش مشکل سایت
@@ -159,7 +159,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 <br>
 <br>
-<a href="#" style="background-color:#9370DB; color:#000; padding:4px 150px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  background-color:#5db616; color:#fff;">
+<a href="#" style="background-color:#9370DB; color:#000; padding:10px 119px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  background-color:#5db616; color:#fff;">
 
 مطالب وبسایت
 
@@ -169,7 +169,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="don12.html" style="background-color:#FFA500; color:#000; padding:10px 150px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px background-color:#5db616; color:#fff;">
+<a href="don12.html" style="background-color:#FFA500; color:#000; padding:10px 99px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px background-color:#5db616; color:#fff;">
 
 
 دانلود برنامه وبسایت 
@@ -179,7 +179,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="https://assspt.github.io/status.blogo/" style="background-color:#9370DB; color:#000; padding:1px 150px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   background-color:#5db616; color:#fff;">
+<a href="https://assspt.github.io/status.blogo/" style="background-color:#9370DB; color:#000; padding:10px 110px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   background-color:#5db616; color:#fff;">
 
 
  وضعیت سیستم
