@@ -159,7 +159,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 <br>
 <br>
-<a href="#" style="background-color:#9370DB; color:#000; padding:10px 119px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  background-color:#5db616; color:#fff;">
+<a href="ermas.html" style="background-color:#9370DB; color:#000; padding:10px 119px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  background-color:#5db616; color:#fff;">
 
 مطالب وبسایت
 
