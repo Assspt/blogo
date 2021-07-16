@@ -1,4 +1,3 @@
-<img style="width:150; height:150;" src="https://user-images.githubusercontent.com/77159072/126008352-c5068f59-c440-49c8-9cb5-f2dc93b049b9.jpg">
 
 <script>
  
