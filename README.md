@@ -12,7 +12,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 </script>
 
-<hr>
+
 <html lang="fa-IR">
 <head>
 
