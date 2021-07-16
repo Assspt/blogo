@@ -33,9 +33,10 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 <body style="text-align: right;">
 <title>ساخت وب سایت</title>
+<center>
 <h3 style="color:#F0FFFF; background-color:#000000;text-align: center;">ساخت وبسایت</h3>
 <a/>
-
+</center>
 <br>
 
 <br>
@@ -45,7 +46,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 
 
-  <a href="blog.my.html" class="button" style="background-color:#FFA500; color:#FFFFFF;padding:1px 90px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   text-align: center; font-size: 34px; ">ساخت وبسایت</a>
+  <a href="blog.my.html" class="button" style="background-color:#FFA500; color:#FFFFFF;padding:1px 80px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   text-align: center; font-size: 34px; ">ساخت وبسایت</a>
 
 </div>
 <br>
