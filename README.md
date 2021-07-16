@@ -125,12 +125,10 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 <br>
-<div style="background-color:#000000; text-align: left;  ">
+<div style="background-color:#7B68EE; text-align: right; ">
 <br>
 <br>
-<center>
-
-<a href="blog.my.html" style="background-color:#FFA500; color:#000; padding:10px 110px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   background-color:#5db616; color:#fff;">
+<br>  <a href="blog.my.html" style="color:#FFF; text-decoration:none;">
 
 
 ساخت وبسایت 
@@ -139,27 +137,28 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="blog.html" style="background-color:#9370DB; color:#000; padding:10px 140px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px background-color:#5db616; color:#fff;">
-
+<a href="blog.html" style="color:#FFF; text-decoration:none;">
 ثبت نام
 
 </a>
 <br>
 <br>
 
+<a href="help.html" style="color:#FFF; text-decoration:none;">
 
-<a href="help.html" style="background-color:#FFA500; color:#000; padding:10px 100px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  background-color:#5db616; color:#fff;">
+
+ 
 
 
 گزارش مشکل سایت
-
-
-
 </a>
 
+
+
+
 <br>
 <br>
-<a href="ermas.html" style="background-color:#9370DB; color:#000; padding:10px 119px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  background-color:#5db616; color:#fff;">
+<a href="ermas.html" style="color:#FFF; text-decoration:none;">
 
 مطالب وبسایت
 
@@ -169,8 +168,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="don12.html" style="background-color:#FFA500; color:#000; padding:10px 99px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px background-color:#5db616; color:#fff;">
-
+<a href="don12.html" style="color:#FFF; text-decoration:none;">
 
 دانلود برنامه وبسایت 
 
@@ -179,8 +177,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="https://assspt.github.io/status.blogo/" style="background-color:#9370DB; color:#000; padding:10px 110px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   background-color:#5db616; color:#fff;">
-
+<a href="https://assspt.github.io/status.blogo/" style="color:#FFF; text-decoration:none;">
 
  وضعیت سیستم
 
