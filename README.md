@@ -45,7 +45,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 
 
-  <a href="blog.my.html" class="button" style="background-color:#FFA500; color:#FFFFFF;padding:1px 110px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   text-align: center; font-size: 34px; ">ساخت وبسایت</a>
+  <a href="blog.my.html" class="button" style="background-color:#FFA500; color:#FFFFFF;padding:1px 110px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   text-align: center; font-size: 34px; ">شروع کن</a>
 
 
 </div>
