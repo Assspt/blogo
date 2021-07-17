@@ -1,7 +1,6 @@
-
 <div style=" position: fixed;">
 
-<h3 style="background-color:#fff; color:#fff; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:50px 20px;">………………………….........….........................</h3>
+<h1 style="background-color:#fff; color:#fff; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:50px 20px;">$$$$$$$$$$$$$$$$$$$</h1>
 </div>
 
 
