@@ -137,7 +137,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <div style="background-color:#6A5ACD; text-align: right; " alink="green">
 <br>
 <br>
-<br>  <a href="blog.my.html" style=" text-decoration:none;">
+<br>  <a href="blog.my.html" style="color:#fff; text-decoration:none;">
 
 
 ساخت وبسایت 
