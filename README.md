@@ -146,14 +146,14 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="blog.html" style="text-decoration:none;">
+<a href="blog.html" style="color:#fff;text-decoration:none;">
 ثبت نام
 
 </a>
 <br>
 <br>
 
-<a href="help.html" style=" text-decoration:none;">
+<a href="help.html" style="color:#fff; text-decoration:none;">
 
 
  
@@ -167,7 +167,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 <br>
 <br>
-<a href="ermas.html" style="text-decoration:none;">
+<a href="ermas.html" style="color:#fff; text-decoration:none;">
 
 مطالب وبسایت
 
@@ -177,7 +177,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="don12.html" style=" text-decoration:none;">
+<a href="don12.html" style="color:#fff; text-decoration:none;">
 
 دانلود برنامه وبسایت 
 
@@ -186,7 +186,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="https://assspt.github.io/status.blogo/" style="text-decoration:none;">
+<a href="https://assspt.github.io/status.blogo/" style="color:#fff; text-decoration:none;">
 
  وضعیت سیستم
 
@@ -197,4 +197,3 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 <br>
 </div>
-#
