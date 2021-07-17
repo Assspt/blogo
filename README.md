@@ -132,7 +132,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 <br>
-<body alink="Orange" link="white" vlink="white">
+<body alink="#FF8C00" link="#fff" vlink="#fff">
 <div style="background-color:#6A5ACD; text-align: right; " alink="green">
 <br>
 <br>
@@ -192,7 +192,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 
 </a>
-</center>
+
 <br>
 <br>
 </div>
