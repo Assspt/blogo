@@ -95,20 +95,21 @@
 
 <h3>خودت وبسایتو طراحی کن</h3>
 <br>
-
+<h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
 <a href="cv.html">
 <img src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png">
 <br>
 </a>
 <h3>سرور رایگان</h3>
 <br>
+<h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
 <a href="lotbm.html">
 <img src= "https://user-images.githubusercontent.com/77159072/125669434-95b9ce9d-4a25-42fa-a000-7513ef75b478.jpg">
 <br>
 </a>
 <h3>blogo رایگان است</h3>
 <br>
-
+<h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
 
 </center>
 
