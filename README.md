@@ -39,7 +39,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </head>
 
 
-<body style="text-align: right;">
+<div style="text-align: right;">
 <title>ساخت وب سایت</title>
 <center>
 
