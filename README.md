@@ -163,7 +163,7 @@
 
 
 
-
+<center>
 <br>
 <br>
 <a href="ermas.html" style="color:#fff; text-decoration:none;">
@@ -192,7 +192,7 @@
 
 
 </a>
-
+</center>
 <br>
 <br>
 </div>
