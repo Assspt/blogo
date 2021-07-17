@@ -138,10 +138,11 @@
 <br>
 <center>
 <h3 style="color:#fff;">گزینه های سایت</h3>
-<br>  <a href="blog.my.html" style="color:#fff; text-decoration:none;">
+<br>
+ <a href="blog.my.html" style="color:#fff; text-decoration:none;">
 
 
-<body>
+
 ساخت وبسایت 
 
 
