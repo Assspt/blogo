@@ -35,7 +35,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <body style="text-align: right;">
 <title>ساخت وب سایت</title>
 <center>
-<h3 style="color:#F0FFFF; background-color:#000000;text-align: center;">ساخت وبسایت</h3>
+
 <a/>
 </center>
 <br>
