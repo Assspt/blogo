@@ -1,6 +1,6 @@
 <div style=" position: fixed;">
 
-<h3 style="background-color:#fff; color:#fff; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:70px 20px;">____________________________________</h3>
+<h3 style="background-color:#fff; color:#fff; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:70px 20px;40px20px">____________________________________</h3>
 </div>
 
 
@@ -9,6 +9,7 @@
 <img width="90" height="90" src="https://user-images.githubusercontent.com/77159072/126009207-e940ca64-fa1d-48f2-b1f8-caba73de8a4d.jpg"> 
 
 </p>
+<br>
 <script>
  
 
