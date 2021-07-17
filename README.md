@@ -132,10 +132,11 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 <br>
 
 <br>
-<div style="background-color:#7B68EE; text-align: right; ">
+<body alink="Orange" link="white" vlink="white">
+<div style="background-color:#6A5ACD; text-align: right; " alink="green">
 <br>
 <br>
-<br>  <a href="blog.my.html" style="color:#FFF; text-decoration:none;">
+<br>  <a href="blog.my.html" style=" text-decoration:none;">
 
 
 ساخت وبسایت 
@@ -144,14 +145,14 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="blog.html" style="color:#FFF; text-decoration:none;">
+<a href="blog.html" style="text-decoration:none;">
 ثبت نام
 
 </a>
 <br>
 <br>
 
-<a href="help.html" style="color:#FFF; text-decoration:none;">
+<a href="help.html" style=" text-decoration:none;">
 
 
  
@@ -165,7 +166,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 
 <br>
 <br>
-<a href="ermas.html" style="color:#FFF; text-decoration:none;">
+<a href="ermas.html" style="text-decoration:none;">
 
 مطالب وبسایت
 
@@ -175,7 +176,7 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="don12.html" style="color:#FFF; text-decoration:none;">
+<a href="don12.html" style=" text-decoration:none;">
 
 دانلود برنامه وبسایت 
 
@@ -184,14 +185,14 @@ console.log("اگر شما برنامه نویس هستید به این وبسا
 </a>
 <br>
 <br>
-<a href="https://assspt.github.io/status.blogo/" style="color:#FFF; text-decoration:none;">
+<a href="https://assspt.github.io/status.blogo/" style="text-decoration:none;">
 
  وضعیت سیستم
 
 
 
 </a>
-
+</center>
 <br>
 <br>
 </div>
