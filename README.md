@@ -1,3 +1,4 @@
+<body style="margin: 0;">
 <div style=" position: fixed;">
 
 <h3 style="background-color:#fff; color:#fff; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:60px 20px;1px20px">____________________________________</h3>
@@ -129,7 +130,7 @@
 <br>
 
 <br>
-<body alink="#FF8C00" link="#fff" vlink="#fff">
+<div alink="#FF8C00" link="#fff" vlink="#fff">
 <div style="background-color:#6A5ACD; text-align: right; " alink="green">
 <br>
 <br>
