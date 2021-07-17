@@ -132,13 +132,16 @@
 <br>
 
 <br>
-<div alink="#FF8C00" link="#fff" vlink="#fff">
+<body alink="#FF8C00" link="#fff" vlink="#fff">
 <div style="background-color:#6A5ACD; text-align: right; " alink="green">
 <br>
 <br>
+<center>
+<h3 style="color:#fff;">گزینه های سایت</h3>
 <br>  <a href="blog.my.html" style="color:#fff; text-decoration:none;">
 
 
+<body>
 ساخت وبسایت 
 
 
@@ -192,7 +195,7 @@
 
 
 </a>
-
+</center>
 <br>
 <br>
 </div>
