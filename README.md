@@ -93,8 +93,9 @@
 <p align="ceter">
 <img width="120" height="120" src= "https://user-images.githubusercontent.com/77159072/125670662-bf4aad8f-004c-4a5f-88a0-4d60a81a66dc.jpg">
 <br>
-</a>
 </p>
+</a>
+
 <h3>خودت وبسایتو طراحی کن</h3>
 <br>
 <h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
@@ -117,7 +118,7 @@
 <br>
 <h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
 
-</center>
+
 
 
 
