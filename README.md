@@ -125,7 +125,7 @@
 
 
 <footer>
-
+<main>
 <div style="background-color:#FFA500; color:#fff; text-align: right; " alink="green color:#fff;">
 <center>
 
@@ -207,7 +207,7 @@
 
 
 </a>
-
+</main>
 
 
 <a/>
