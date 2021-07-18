@@ -143,7 +143,7 @@
 
 
 <br>
-<body alink="#FF8C00" link="#fff" vlink="#fff">
+
 <div style="background-color:#6A5ACD; text-align: right; " alink="green">
 <br>
 <br>
