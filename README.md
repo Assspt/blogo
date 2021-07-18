@@ -222,7 +222,7 @@ img {max-width:100%;}
 <a/>
 
 <br>
-<br>
+
 <a href="https://assspt.github.io/blogo/test3.html" style="color:#fff; text-decoration:none;">
 
 
