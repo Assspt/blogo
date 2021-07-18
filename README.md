@@ -102,7 +102,7 @@
 
 
 <p align="ceter">
-<img width="350" height="250" src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png">
+<img width="330" height="200" src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png">
 <br>
 </p>
 
