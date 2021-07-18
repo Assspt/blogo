@@ -200,7 +200,7 @@
 <a href="https://assspt.github.io/blogo/" style="color:#fff; text-decoration:none;">
 
 
-حالت روشن
+حالت تاریک
 
 </a>
 <br>
