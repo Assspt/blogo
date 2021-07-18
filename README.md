@@ -126,7 +126,9 @@
 
 <footer>
 
+<div style="background-color:#FF5400;; text-align: right; " alink="green color:#fff;">
 
+</div>
 </footer>
 
 <br>
