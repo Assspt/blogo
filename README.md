@@ -126,9 +126,16 @@
 
 <footer>
 
-<div style="background-color:#FF5400;; text-align: right; " alink="green color:#fff;">
+<div style="background-color:#FFA500; color:#fff; text-align: right; " alink="green color:#fff;">
+<center>
 
-</div>
+<h3>هشتار ها </h3>
+<h4>بدی ها</h4>
+<h5>این وبسایت برای کسب و کار ها مناسب نیست</h5>
+<h4>خوبی ها </h4>
+<h5>:رایگان است و برای این ها خوب است</h5>
+<h5>وبسایت در مورد خودم ،بازی ، عکس ، فیلم ،موسیقی ، دانلود ها</h5>
+
 </footer>
 
 <br>
