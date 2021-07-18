@@ -1,13 +1,13 @@
 <html lang="fa-IR">
 <body style="margin: 0; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; ">
-<div style=" position: fixed;">
+<div style=" ">
 
 <h3 style="background-color:#fff; color:#fff; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; padding:33px 20px;1px20px margin: 0;">____________________________________</h3>
 </div>
 <br>
 
 <center>
-<p align="ceter" style=" position: fixed; margin: 0; ">
+<p align="ceter" style="  margin: 0; ">
 <img width="90" height="90" src="https://user-images.githubusercontent.com/77159072/126046501-54028adb-4252-4ea6-b054-521930ec0397.jpg"> 
 
 </p>
