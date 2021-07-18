@@ -99,7 +99,7 @@
 
 <h3>خودت وبسایتو طراحی کن</h3>
 <br>
-<h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
+<h6>روی عکس کلیک کن اطلاعات بیشتر</h6>
 <a href="https://assspt.github.io/blogo/cv.html">
 <p align="ceter">
 <img width="350" height="200" src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png">
@@ -108,7 +108,7 @@
 </a>
 <h3>سرور رایگان</h3>
 <br>
-<h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
+<h6>روی عکس کلیک کن اطلاعات بیشتر</h6>
 <a href="https://assspt.github.io/blogo/lotbm.html">
 <p align="ceter">
 <img width="400" height="200" src= "https://user-images.githubusercontent.com/77159072/125669434-95b9ce9d-4a25-42fa-a000-7513ef75b478.jpg">
@@ -117,7 +117,7 @@
 </a>
 <h3>blogo رایگان است</h3>
 <br>
-<h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
+<h6>روی عکس کلیک کن اطلاعات بیشتر</h6>
 
 
 
