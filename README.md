@@ -118,7 +118,7 @@
 <br>
 <h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
 
-
+</dfn>
 
 
 
@@ -147,7 +147,7 @@
 <h5 style="#fff;">تمام</h5>
 
 
-</dfn>
+
 <br>
 
 <div style="background-color:#6A5ACD; text-align: right; " alink="green">
