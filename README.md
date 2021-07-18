@@ -136,8 +136,8 @@
 <h5>:رایگان است و برای این ها خوب است</h5>
 <h5>وبسایت در مورد خودم ،بازی ، عکس ، فیلم ،موسیقی ، دانلود ها</h5>
 
-
-
+<hr>
+<hr>
 <hr>
 <br>
 
@@ -149,7 +149,9 @@
 <h5 style="#fff;">تمام</h5>
 
 
-
+<hr>
+<hr>
+<hr>
 <br>
 
 <div style="background-color:#6A5ACD; text-align: right; " alink="green">
