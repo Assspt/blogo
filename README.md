@@ -6,11 +6,12 @@
 </div>
 <br>
 
-
+<center>
 <p align="ceter" style="text-align: left; position: fixed; margin: 0; ">
 <img width="90" height="90" src="https://user-images.githubusercontent.com/77159072/126046501-54028adb-4252-4ea6-b054-521930ec0397.jpg"> 
 
 </p>
+</center>
 <br>
 
 
