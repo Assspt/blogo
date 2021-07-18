@@ -99,16 +99,16 @@
 
 <h3>خودت وبسایتو طراحی کن</h3>
 <br>
-<h6>روی عکس کلیک کن اطلاعات بیشتر</h6>
+
 
 <p align="ceter">
-<img width="350" height="200" src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png">
+<img width="350" height="250" src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png">
 <br>
 </p>
 
 <h3>سرور رایگان</h3>
 <br>
-<h6>روی عکس کلیک کن اطلاعات بیشتر</h6>
+
 
 <p align="ceter">
 <img width="400" height="200" src= "https://user-images.githubusercontent.com/77159072/125669434-95b9ce9d-4a25-42fa-a000-7513ef75b478.jpg">
@@ -117,7 +117,7 @@
 
 <h3>blogo رایگان است</h3>
 <br>
-<h6>روی عکس کلیک کن اطلاعات بیشتر</h6>
+
 
 
 
