@@ -126,7 +126,7 @@
 
 <footer>
 <main>
-<div style="background-color:#FFA500; color:#fff; text-align: right; " alink="green color:#fff;">
+<div style="background-color:#6A5ACD; color:#fff; text-align: right; " alink="green color:#fff;">
 <center>
 
 <h3>هشتار ها </h3>
