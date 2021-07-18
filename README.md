@@ -101,7 +101,7 @@
 <h5>روی عکس کلیک کن اطلاعات بیشتر</h5>
 <a href="cv.html">
 <p align="ceter">
-<img width="400" height="200" src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png">
+<img width="350" height="200" src= "https://user-images.githubusercontent.com/77159072/125669934-caa2cbab-61bd-4cd1-8c94-dd52b0a397ad.png">
 <br>
 </p>
 </a>
