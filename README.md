@@ -196,10 +196,9 @@
 </a>
 <br>
 <br>
-<a href="mynum.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo.x/" style="color:#fff; text-decoration:none;">
 
-
-مشخصات سازنده 
+حالت تاریک
 
 </a>
 <br>
