@@ -192,9 +192,16 @@
  هشدار ها 
 
 
-<br>
+
 </a>
 <br>
+<br>
+<a href="mynum.html" style="color:#fff; text-decoration:none;">
+
+
+مشخصات سازنده 
+
+</a>
 <br>
 <a href="https://assspt.github.io/status.blogo/" style="color:#fff; text-decoration:none;">
 
