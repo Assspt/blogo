@@ -188,6 +188,29 @@
 </a>
 <br>
 <br>
+
+<a href="https://assspt.github.io/blogo.x" style="color:#fff; text-decoration:none;">
+
+
+ حالت تاریک
+
+
+
+</a>
+<br>
+<br>
+
+<a href="#" style="color:#fff; text-decoration:none;">
+
+
+ 
+هشدار ها
+
+
+</a>
+
+<br>
+<br>
 <a href="https://assspt.github.io/status.blogo/" style="color:#fff; text-decoration:none;">
 
  وضعیت سیستم
