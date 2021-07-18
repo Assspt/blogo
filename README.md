@@ -138,13 +138,9 @@
 
 </footer>
 
-<br>
 
 <br>
-<br>
 
-<br>
-<br>
 
 <br>
 <body alink="#FF8C00" link="#fff" vlink="#fff">
