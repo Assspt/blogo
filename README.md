@@ -253,7 +253,7 @@ img {max-width:100%;}
 
 <br>
 <br>
-<a href="https://assspt.github.io/blogo/test30.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/test31.html" style="color:#fff; text-decoration:none;">
 
 
 مدل ۳ وبسایت
