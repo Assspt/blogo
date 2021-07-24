@@ -57,7 +57,7 @@ img {max-width:100%;}
 
 
 
-  <a href="https://assspt.github.io/blogo/blog.my.html" class="button" style="background-color:#FF5400;background-color:#9b51e0; box-shadow 0px 20px 4px rgb(0 0 0 /25٪);  color:#FFFFFF;padding:1px 80px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   text-align: center; font-size: 34px; ">ساخت وبسایت</a>
+  <a href="https://assspt.github.io/blogo/blog.my.html" class="button" style="background-color:#FF5400; box-shadow 0px 20px 4px rgb(0 0 0 /25٪);  color:#FFFFFF;padding:1px 80px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px   text-align: center; font-size: 34px; ">ساخت وبسایت</a>
 
 </div>
 <br>
