@@ -66,7 +66,7 @@ img {max-width:100%;}
 
 
 
-  <a href="tel:+989914723214" class="button" style="background-color:#9370DB; color:#FFFFFF; padding:1px 110px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  text-align: center; font-size: 34px; ">تماس با ما</a>
+  <a href="tel:+989914723214" class="button" style="background-color:#9b51e0; color:#FFFFFF; padding:1px 110px; text-decoration:none; display: inline-block; cursor: pointer; border-radius:6px; border:2px  text-align: center; font-size: 34px; ">تماس با ما</a>
 
 
 </div>
