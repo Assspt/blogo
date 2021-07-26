@@ -208,6 +208,16 @@ img {max-width:100%;}
 </a>
 <br>
 <br>
+<a href="https://assspt.github.io/blogo/xp.html" style="color:#fff; text-decoration:none;">
+
+ 
+ دیدن سایت های دیگران
+
+
+
+</a>
+<br>
+<br>
 <a href="https://assspt.github.io/status.blogo/" style="color:#fff; text-decoration:none;">
 
  
