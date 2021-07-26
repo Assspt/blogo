@@ -211,7 +211,7 @@ img {max-width:100%;}
 <a href="https://assspt.github.io/blogo/xp.html" style="color:#fff; text-decoration:none;">
 
  
- دیدن سایت های دیگران
+ مخزن ها
 
 
 
