@@ -218,11 +218,11 @@ img {max-width:100%;}
 </a>
 <br>
 <br>
-<a href="https://assspt.github.io/blogo/helpmy.html>
+<a href="https://assspt.github.io/blogo/helpmy.html">
 
 
  
- راهنما ساخت وبسایت،
+ راهنما ساخت وبسایت
 
 
 
