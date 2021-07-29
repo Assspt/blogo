@@ -135,7 +135,7 @@ img {max-width:100%;}
 
 <br>
 
-<div style="background:#7B68EE; text-align: right;  margin-left:-150px;" alink="green">
+<div style="background:#7B68EE; text-align: right;  margin-left:-150px; width:600px;" alink="green">
 <br>
 <br>
 <center>
