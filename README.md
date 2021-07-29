@@ -249,7 +249,7 @@ img {max-width:100%;}
 
 
 
-<div style="background:#7B68EE; text-align: right; margin-left:400px; margin-top:-600px;" alink="green">
+<div style="background:#7B68EE; text-align: right; margin-left:350px; margin-top:-550px; width:200px;" alink="green">
 <center>
 
 
