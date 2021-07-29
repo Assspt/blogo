@@ -135,7 +135,7 @@ img {max-width:100%;}
 
 <br>
 
-<div style="background:#7B68EE; text-align: right; " alink="green">
+<div style="background:#7B68EE; text-align: right;  margin-left:-150px;" alink="green">
 <br>
 <br>
 <center>
@@ -246,6 +246,13 @@ img {max-width:100%;}
 
 <br>
 
+
+
+
+<div style="background:#7B68EE; text-align: right; margin-left:350px; margin-top:-550px;" alink="green">
+<center>
+
+
 <h3 style="color:#fff;">نمونه کار ها </h3>
 <br>
 <a href="https://assspt.github.io/blogo/test3.html" style="color:#fff; text-decoration:none;">
@@ -283,5 +290,23 @@ img {max-width:100%;}
 
 </a>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
