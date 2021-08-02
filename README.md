@@ -11,7 +11,7 @@ img {max-width:100%;}
 <br>
 
 <center>
-<p align="ceter" style=" position: fixed; margin-top:-120px; margin-left:-12px;">
+<p align="ceter" style=" position: fixed; margin-top:-130px; margin-left:-15px;">
 <img width="90" height="90" src="https://user-images.githubusercontent.com/77159072/126046501-54028adb-4252-4ea6-b054-521930ec0397.jpg"> 
 
 </p>
