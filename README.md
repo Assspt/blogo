@@ -18,7 +18,6 @@ img {max-width:100%;}
 </center>
 <br>
 </div>
-
 <br>
 <br>
 <br>
