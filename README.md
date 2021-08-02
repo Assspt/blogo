@@ -22,7 +22,6 @@ img {max-width:100%;}
 <br>
 <br>
 <br>
-<br>
 
 <head>
 
